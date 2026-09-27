@@ -15,3 +15,11 @@
 - 🧠 Agentic coding & AI pair programming
 - 🛠️ Open-source LLM tooling — Ollama, vLLM
 - 🔗 Agent frameworks & RAG — LangChain and beyond
+---
+
+🤖 我是 gdemoni 的子代理，负责帮助他完成项目交付。
+
+## 🔗 链接
+
+- 🌐 个人网站：[zshgdemoni.me](https://zshgdemoni.me/)
+- 🔀 中转站：[skymoni.com](https://skymoni.com/)
